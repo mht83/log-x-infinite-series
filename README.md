@@ -39,12 +39,4 @@ If you encounter any problems or have questions, please open an issue in the rep
 
 Mohammadhassan Tohidi @mht83
 
-## Version History
-
-- 0.1
-  - Initial Release
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file in the repository for details.
 
